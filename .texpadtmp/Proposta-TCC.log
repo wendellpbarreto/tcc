@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.10.27)  13 NOV 2015 23:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.10.27)  20 NOV 2015 23:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -717,7 +717,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 \openout2 = `Includes/Capa.aux'.
 
- (./Includes/Capa.tex <Imagens/Brasao-UFRN.jpg, id=103, 175.857pt x 173.9298pt>
+ (./Includes/Capa.tex <Imagens/Brasao-UFRN.jpg, id=111, 175.857pt x 173.9298pt>
 File: Imagens/Brasao-UFRN.jpg Graphic file (type jpg)
  <use Imagens/Brasao-UFRN.jpg>
 Package pdftex.def Info: Imagens/Brasao-UFRN.jpg used on input line 14.
@@ -729,7 +729,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Try loading font information for U+msb on input line 16.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) <Imagens/Logotipo-DIMAp.jpg, id=104, 102.54527pt x 77.1531pt>
+) <Imagens/Logotipo-DIMAp.jpg, id=112, 102.54527pt x 77.1531pt>
 File: Imagens/Logotipo-DIMAp.jpg Graphic file (type jpg)
  <use Imagens/Logotipo-DIMAp.jpg>
 Package pdftex.def Info: Imagens/Logotipo-DIMAp.jpg used on input line 29.
@@ -859,7 +859,7 @@ Package babel Info: Redefining portuges shorthand "|
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.24 ...berline {2.4}Arquitetura}{28}{section.2.4}
+l.24 ...{2.2.2}Casos de Uso}{23}{subsection.2.2.2}
                                                    [8
 
 
@@ -894,7 +894,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
  []
 
-<Imagens/FluxoMateriaisNovos.jpg, id=180, 461.725pt x 339.76938pt>
+<Imagens/FluxoMateriaisNovos.jpg, id=190, 461.725pt x 339.76938pt>
 File: Imagens/FluxoMateriaisNovos.jpg Graphic file (type jpg)
  <use Imagens/FluxoMateriaisNovos.jpg>
 Package pdftex.def Info: Imagens/FluxoMateriaisNovos.jpg used on input line 16.
@@ -945,31 +945,40 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 77.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 81.
-Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 86.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 86.
  [14]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 91.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 93.
+(babel)             in language  on input line 87.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 97.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 99.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 103.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 106.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 106.
+ [15]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 111.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 119.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 122.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 122.
+ [16]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 123.
 )
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 109.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 109.
- [15]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 109.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 109.
- [16]
+ [17]
 \openout2 = `Capitulos/SiMate.aux'.
 
  (./Capitulos/SiMate.tex
@@ -984,7 +993,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 25.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 25.
-[17
+[18
 
 
 
@@ -995,19 +1004,19 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 52.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 52.
- [18]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 73.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 73.
  [19]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 73.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 73.
+ [20]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 76.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 103.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 103.
- [20]
+ [21]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 112.
 Package babel Info: Redefining portuges shorthand "|
@@ -1020,7 +1029,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 126.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 130.
- <Imagens/UC_CriarEtapa.png, id=303, 524.71031pt x 266.49562pt>
+ <Imagens/UC_CriarEtapa.png, id=317, 524.71031pt x 266.49562pt>
 File: Imagens/UC_CriarEtapa.png Graphic file (type png)
  <use Imagens/UC_CriarEtapa.png>
 Package pdftex.def Info: Imagens/UC_CriarEtapa.png used on input line 136.
@@ -1040,7 +1049,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 140.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 140.
-[21] <Imagens/UC_CriarFluxo.jpg, id=309, 699.61375pt x 347.2975pt>
+[22] <Imagens/UC_CriarFluxo.jpg, id=323, 699.61375pt x 347.2975pt>
 File: Imagens/UC_CriarFluxo.jpg Graphic file (type jpg)
  <use Imagens/UC_CriarFluxo.jpg>
 Package pdftex.def Info: Imagens/UC_CriarFluxo.jpg used on input line 167.
@@ -1060,12 +1069,12 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 171.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 171.
-[22 <./Imagens/UC_CriarEtapa.png>]
+[23 <./Imagens/UC_CriarEtapa.png>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 198.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 198.
- [23 <./Imagens/UC_CriarFluxo.jpg>] <Imagens/UC_CriarMaterial.jpg, id=349, 696.6025pt x 347.2975pt>
+ [24 <./Imagens/UC_CriarFluxo.jpg>] <Imagens/UC_CriarMaterial.jpg, id=364, 696.6025pt x 347.2975pt>
 File: Imagens/UC_CriarMaterial.jpg Graphic file (type jpg)
  <use Imagens/UC_CriarMaterial.jpg>
 Package pdftex.def Info: Imagens/UC_CriarMaterial.jpg used on input line 212.
@@ -1085,14 +1094,14 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 234.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 234.
-[24 <./Imagens/UC_CriarMaterial.jpg>]
+[25 <./Imagens/UC_CriarMaterial.jpg>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 259.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 264.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 264.
- [25] <Imagens/SiMateTelas/Index.png, id=396, 1030.85126pt x 755.82375pt>
+ [26] <Imagens/SiMateTelas/Index.png, id=410, 1030.85126pt x 755.82375pt>
 File: Imagens/SiMateTelas/Index.png Graphic file (type png)
  <use Imagens/SiMateTelas/Index.png>
 Package pdftex.def Info: Imagens/SiMateTelas/Index.png used on input line 267.
@@ -1113,7 +1122,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 266--271
 
  []
 
-<Imagens/SiMateTelas/GradeDisciplinas.png, id=399, 1030.85126pt x 755.82375pt>
+<Imagens/SiMateTelas/GradeDisciplinas.png, id=413, 1030.85126pt x 755.82375pt>
 File: Imagens/SiMateTelas/GradeDisciplinas.png Graphic file (type png)
  <use Imagens/SiMateTelas/GradeDisciplinas.png>
 Package pdftex.def Info: Imagens/SiMateTelas/GradeDisciplinas.png used on input line 276.
@@ -1138,7 +1147,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 280.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 280.
-[26 <./Imagens/SiMateTelas/Index.png>] <Imagens/SiMateTelas/ArtefatoDetalhe.png, id=408, 1030.85126pt x 755.82375pt>
+[27 <./Imagens/SiMateTelas/Index.png>] <Imagens/SiMateTelas/ArtefatoDetalhe.png, id=422, 1030.85126pt x 755.82375pt>
 File: Imagens/SiMateTelas/ArtefatoDetalhe.png Graphic file (type png)
  <use Imagens/SiMateTelas/ArtefatoDetalhe.png>
 Package pdftex.def Info: Imagens/SiMateTelas/ArtefatoDetalhe.png used on input line 287.
@@ -1163,10 +1172,10 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 291.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 291.
-[27 <./Imagens/SiMateTelas/GradeDisciplinas.png>]
+[28 <./Imagens/SiMateTelas/GradeDisciplinas.png>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 294.
- <Imagens/Arquitetura.png, id=415, 407.27156pt x 465.23813pt>
+ <Imagens/Arquitetura.png, id=429, 407.27156pt x 465.23813pt>
 File: Imagens/Arquitetura.png Graphic file (type png)
  <use Imagens/Arquitetura.png>
 Package pdftex.def Info: Imagens/Arquitetura.png used on input line 301.
@@ -1191,12 +1200,12 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 306.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 306.
-[28 <./Imagens/SiMateTelas/ArtefatoDetalhe.png>])
+[29 <./Imagens/SiMateTelas/ArtefatoDetalhe.png>])
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 112.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 112.
- [29 <./Imagens/Arquitetura.png>]
+ [30 <./Imagens/Arquitetura.png>]
 \openout2 = `Capitulos/Cronograma.aux'.
 
  (./Capitulos/Cronograma.tex
@@ -1208,7 +1217,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 115.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 115.
- [30
+ [31
 
 
 
@@ -1227,7 +1236,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 125.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 125.
- [31
+ [32
 
 
 
@@ -1257,18 +1266,18 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 133.
  ) 
 Here is how much of TeX's memory you used:
- 10258 strings out of 493089
- 151297 string characters out of 6134841
+ 10263 strings out of 493089
+ 151392 string characters out of 6134841
  362101 words of memory out of 5000000
- 13272 multiletter control sequences out of 15000+600000
+ 13274 multiletter control sequences out of 15000+600000
  26991 words of font info for 73 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  36i,9n,39p,1081b,765s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfxc1728.pfb>
-Output written on /Users/wendellpbarreto/Projects/tcc/.texpadtmp/Proposta-TCC.pdf (32 pages, 1044067 bytes).
+Output written on /Users/wendellpbarreto/Projects/tcc/.texpadtmp/Proposta-TCC.pdf (33 pages, 1047757 bytes).
 PDF statistics:
- 513 PDF objects out of 1000 (max. 8388607)
- 446 compressed objects within 5 object streams
- 142 named destinations out of 1000 (max. 500000)
- 251 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 529 PDF objects out of 1000 (max. 8388607)
+ 461 compressed objects within 5 object streams
+ 145 named destinations out of 1000 (max. 500000)
+ 267 words of extra memory for PDF output out of 10000 (max. 10000000)
 

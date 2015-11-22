@@ -1,7 +1,7 @@
 % Introdução
 \chapter{Introdução}
 
-Este é o capítulo introdutório da monografia e está dividido em cinco seções. A primeira trata de contextualizar o estudo, depois disso, a situação problema encontrada no contexto informado será exposta. Na terceira seção serão mostradas as possíveis soluções existentes e apresentada a proposta desse estudo. Por fim, serão vistos os objetivos do trabalho, os métodos e técnicas aplicadas e a motivação encontrada.
+Este é o capítulo introdutório da monografia e está dividido em cinco seções. A primeira trata de contextualizar o estudo. A segunda trás a situação problema encontrada no contexto informado. Depois disso, são mostradas as possíveis soluções existentes e apresentada a proposta do estudo. Por fim, são expostos os objetivos do trabalho, os métodos e técnicas aplicadas e a motivação encontrada.
 
 \section{Contextualização}
 
@@ -72,17 +72,23 @@ A tarefa contínua de verificação do recebimento do material, a necessidade de
 
 \section{Estado da Arte}
 
-Sob o dever de executar o processo de produção dos materiais, o setor de materiais criou um mecanismo próprio que supre as necessidades e se mostra primordial para o estudo que foi realizado. É com base nesse mecanismo que podemos visualizar quais ferramentas poderiam ser agregadas com o objetivo de automatizar alguns passos e dar suporte no gerênciamento dos fluxos afim de aumentar a qualidade do produto final. Algumas dessas ferramentas foram análisados e suas possíveis formas de atuação serão descritas a seguir.
+Sob o dever de executar o processo de produção dos materiais, o setor de materiais criou um mecanismo próprio que supre as necessidades e se mostra primordial para o estudo que foi realizado. É com base nesse mecanismo que podemos visualizar quais ferramentas poderiam ser agregadas com o objetivo de automatizar alguns passos e dar suporte no gerenciamento dos fluxos afim de aumentar a qualidade do produto final. Algumas dessas ferramentas foram analisados e suas possíveis formas de atuação serão descritas a seguir.
 
 \subsection{Redmine}
 
-O Redmine é um poderoso gerenciador de projetos baseado na web. Ele possui ferramentas de acompanhamento de atividades que permite a atribuição de tarefas para usuários e equipes, o que se mostra bastante razoável no ponto de vista da necessidade principal do setor de materiais. O criação do material se tornaria uma tarefa dentro do Redmine para os projetos (ofertas de disciplinas) onde os responsáveis assinariam o processo de execução. (CONT) 
+O Redmine é um gerenciador de projeto flexível para Web. Escrito usando Ruby on Rails e disponibilizado sob licença GPL, pode ser configurado para rodar em varias plataformas e suporta diversos bancos de dados. (MOURA; NASCIMENTO, 2010)
+
+Como um gerenciador de projetos baseado na web, o Redmine possui ferramentas de acompanhamento de atividades que permite a atribuição de tarefas para usuários e equipes, o que se mostra bastante razoável no ponto de vista da necessidade principal do setor de materiais. 
+
+Ao pensar no Redmine como uma ferramenta auxiliadora do processo em questão, percebe-se que, através de pequenas adaptações, é possível gerenciar a criação de materiais usando a abordagem de que cada etapa do fluxo seria representado por uma atividade. O setor de materiais seria responsável por criar as atividades e atribuir a cada envolvido responsável e, ao final de cada etapa, executaria o trabalho de transição de atividade para o próximo envolvido até que o material estivesse pronto.
+
+Através da adaptação do processo pra ser usado dentro da ferramenta, é possível entender que essa se mostra interessante mas possui também suas limitações. Ao passo que precisa-se desvincular parte do trabalho de gerenciamento que é feito pelo setor de materiais, ao usar o Redmine, o setor ainda teria que estar intervindo a cada final de etapa e fazendo reatribuições ao longo do fluxo.
 
 \section{Proposta}
 
 Como proposta do estudo feito, surge o desenvolvimento do Sistema de Materiais - SiMAte. Um produto feito de dentro do instituto e modelado juntamente com todos os usuários e demais envolvidos no processo de criação de materiais.
 
-O SiMate tem somo principal atrativo o fato de ser feito totalmente sob medida para solucionar os problemas encontrados no mecanismo atual de produção. A ferramenta aqui apresentada trás consigo todas as funcionalidades chave que o método usado oferece, juntamente com as soluções que outras ferramentas oferecem e melhorias que os usuários poderam perceber ao longo do tempo. Tudo isso unificado em um sistema totalmente extensível e proprietário.
+O SiMate tem somo principal atrativo o fato de ser feito totalmente sob medida para solucionar os problemas encontrados no mecanismo atual de produção. A ferramenta aqui apresentada trás consigo todas as funcionalidades chave que o método usado oferece, juntamente com as soluções que outras ferramentas oferecem e melhorias que os usuários poderão perceber ao longo do tempo. Tudo isso unificado em um sistema totalmente extensível e proprietário.
 
 Algumas das necessidades de mais importância levantados na fase de elicitação de requisitos são o versionamento de alteração do material no processo de criação, a definição de papéis para as equipes, a geração de relatórios, a auditoria do fluxo produtivo - o que permite que todos saibam exatamente a etapa atual que a atividade se encontra, o calendário de deadlines, sistema de notificações, definição de prioridades dos produtos e registro de alterações.
 
@@ -92,14 +98,32 @@ Todas esses requisitos serão melhor contextualizados, conceituados e exemplific
 
 \subsection{Objetivos}
 
-O objetivo principal desse trabalho é documentar o estudo feito sobre o processo de criação de materiais. A documentação aqui presente busca trazer uma linguagem de fácil entendimento para que sirva como base de estudo, implementação e manutenção por todo o tempo de vida do sistema.
+Os objetivos desse trabalho são descrever em detalhes o processo de criação de materiais pelo setor de materiais do IMD, encontrar e interpretar a situação problema, definir formas de operação mais eficientes, projetar um mecanismo de software que atenda as novas definições, desenvolver e experimentar a solução proposta. Além disso, o resultado aqui obtido deve não só documentar o projeto, mas também servir de base para a evolução e manutenção do sistema pela equipe responsável.
 
 \subsection{Metodologia}
 
+Como um dos objetivos principais desse trabalho é descrever um processo, adiciona-se a esta pesquisa o teor descritivo. De acordo com Selltiz et al. (1965), a pesquisa descritiva busca descrever um fenômeno ou situação em detalhe, especialmente o que está ocorrendo, permitindo abranger, com exatidão, as características de um indivíduo, uma situação, ou um grupo, bem como desvendar a relação entre os eventos. 
+
+E, ao passo que o estudo feito contempla a análise, teorização de novas formas de execução, projeto de um mecanismo com base nas teorias, desenvolvimento e experimento, pode-se caracterizar essa pesquisa explicativa-experimental.
+
+Entendido a metodologia quanto aos objetivos, nas próximas seções serão explanados os procedimentos utilizados no estudo e como a abordagem do problema foi feita.
+
+\subsubsection{Procedimentos}
+
+Os procedimentos utilizados para entendimento do processo como um todo foram, inicialmente, observação direta da execução do fluxo de criação de materiais. Posteriormente, o levantamento de requisitos foi feito e validado com o setor.
+
+As técnicas utilizadas para levantamento de requisitos se caracterizam como: a) compreensão do domínio, onde o responsável pelo estudo desenvolve o entendimento a partir do contato com o ambiente da aplicação; b) coleta de requisitos, processo em que o analista descobre os requisitos partindo da compreensão do domínio; c) classificação e organização, essa atividade contempla a divisão dos requisitos em grupos de afinidades; d) definição de prioridades, aqui os envolvidos são consultados para que haja a determinação dos requisitos mais importantes; e) verificação e resolução de conflitos, neste último passo os requisitos são verificados para garantir a completude, consistência e se estão em concordância com os envolvidos.
+
+Dados os requisitos, a especificação dos principais é feita através do detalhamento dos cenários de interação entre os usuários e o sistema, atividade também chamada de expansão de casos de uso. Essa expansão busca trazer clareza do fluxo para que todos os eventuais leitores possam entendê-lo de igual forma.
+
+\subsubsection{Abordagem da Situação Problema}
+
+Conforme já exposto, a situação problema é abordada com o propósito de teorizar sobre formas mais eficientes de execução do processo, documentá-las e desenvolver um mecanismo de software que atenda essas determinações.
+
 \subsection{Motivação}
 
-Todos os dias novos produtos surgem no mercado tecnológio com o objetivo de solucionar algum problema do cotidiano de empresas e instituições. O SiMate, como sistema de informação, é proposto com o intuito lapidar processos diretamente relacionados com a criação de materiais didáticos, interesse cuja preocupação deve ser notória, pois, à medida que o produto da instituição é o ensino, a qualificação dos seus alunos deve ser seu carro chefe.
+Todos os dias novos produtos surgem no mercado tecnológico com o objetivo de solucionar algum problema do cotidiano de empresas e instituições. O SiMate, como sistema de informação, é proposto com o intuito lapidar processos diretamente relacionados com a criação de materiais didáticos, interesse cuja preocupação deve ser notória, pois, à medida que o produto da instituição é o ensino, a qualificação dos seus alunos deve ser seu carro chefe.
 
-No Instituto Metrópole Digial, assim como nos demais institutos de ensino, os benefícios que os recursos tecnológicos presentes fornecem precisam ser melhor aproveitados e, para isso, a percepção do poder da tecnologia da informação e a adesão ao novo devem ser praticados. 
+No Instituto Metrópole Digital, assim como nos demais institutos de ensino, os benefícios que os recursos tecnológicos presentes fornecem precisam ser melhor aproveitados e, para isso, a percepção do poder da tecnologia da informação e a adesão ao novo devem ser praticados. 
 
 Este trabalho nada mais é do que e prática desses comportamentos. O sistema aqui proposto é um modelo totalmente baseado nas necessidades do setor e que proporcionará o domínio dos processos produtivos e o aumento de performance do trabalho executado.
