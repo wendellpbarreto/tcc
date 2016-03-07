@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.10.27)  20 NOV 2015 23:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.10.27)  12 DEC 2015 20:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -637,10 +637,7 @@ Package caption3 Info: TeX engine: e-TeX on input line 57.
 \c@ContinuedFloat=\count149
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
-) (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Proposta-TCC.aux (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Includes/Capa.aux) (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Includes/FolhaRosto.aux) (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Includes/FolhaAprovacao.aux) (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Includes/Dedicatoria.aux) (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Includes/Agradecimentos.aux) (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Includes/Epigrafe.aux) (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Includes/Resumo.aux) (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Includes/Abstract.aux) (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Capitulos/Introducao.aux) (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Capitulos/SiMate.aux
-
-LaTeX Warning: Label `rf:papeis' multiply defined.
-
+) (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Proposta-TCC.aux (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Includes/Capa.aux) (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Includes/FolhaRosto.aux) (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Includes/Resumo.aux) (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Includes/Abstract.aux) (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Capitulos/Introducao.aux) (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Capitulos/SiMate.aux
 
 LaTeX Warning: Label `rf:papeis' multiply defined.
 
@@ -656,7 +653,7 @@ LaTeX Warning: Label `rf:papeis' multiply defined.
 
 LaTeX Warning: Label `fig:uc_criar_fluxo' multiply defined.
 
-) (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Capitulos/Cronograma.aux) (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Capitulos/Consideracoes.aux) (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Capitulos/ApendiceA.aux) (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Capitulos/AnexoA.aux))
+))
 \openout1 = `Proposta-TCC.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
@@ -717,7 +714,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 \openout2 = `Includes/Capa.aux'.
 
- (./Includes/Capa.tex <Imagens/Brasao-UFRN.jpg, id=111, 175.857pt x 173.9298pt>
+ (./Includes/Capa.tex <Imagens/Brasao-UFRN.jpg, id=96, 175.857pt x 173.9298pt>
 File: Imagens/Brasao-UFRN.jpg Graphic file (type jpg)
  <use Imagens/Brasao-UFRN.jpg>
 Package pdftex.def Info: Imagens/Brasao-UFRN.jpg used on input line 14.
@@ -729,7 +726,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Try loading font information for U+msb on input line 16.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) <Imagens/Logotipo-DIMAp.jpg, id=112, 102.54527pt x 77.1531pt>
+) <Imagens/Logotipo-DIMAp.jpg, id=97, 102.54527pt x 77.1531pt>
 File: Imagens/Logotipo-DIMAp.jpg Graphic file (type jpg)
  <use Imagens/Logotipo-DIMAp.jpg>
 Package pdftex.def Info: Imagens/Logotipo-DIMAp.jpg used on input line 29.
@@ -757,71 +754,6 @@ l.26 \folhaderosto
 
 
 ])
-\openout2 = `Includes/FolhaAprovacao.aux'.
-
- (./Includes/FolhaAprovacao.tex
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 58.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 58.
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.58 \end{folhadeaprovacao}
-                            [2
-
-
-
-])
-\openout2 = `Includes/Dedicatoria.aux'.
-
- (./Includes/Dedicatoria.tex)
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 72.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 72.
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.72 	\include{Includes/Dedicatoria}
-                                     [3
-
-
-
-
-]
-\openout2 = `Includes/Agradecimentos.aux'.
-
- (./Includes/Agradecimentos.tex)
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 75.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 75.
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.75 	\include{Includes/Agradecimentos}
-                                        [4
-
-
-
-]
-\openout2 = `Includes/Epigrafe.aux'.
-
- (./Includes/Epigrafe.tex)
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 78.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 78.
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.78 	\include{Includes/Epigrafe}
-                                  [5
-
-
-
-]
 \openout2 = `Includes/Resumo.aux'.
 
  (./Includes/Resumo.tex)
@@ -833,7 +765,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has be
 <to be read again> 
                    \relax 
 l.81 	\include{Includes/Resumo}
-                                [6
+                                [2
 
 
 ]
@@ -848,7 +780,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has be
 <to be read again> 
                    \relax 
 l.84 	\include{Includes/Abstract}
-                                  [7
+                                  [3
 
 
 ] (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Proposta-TCC.toc
@@ -859,8 +791,8 @@ Package babel Info: Redefining portuges shorthand "|
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.24 ...{2.2.2}Casos de Uso}{23}{subsection.2.2.2}
-                                                   [8
+l.24 ...berline {2.4}Arquitetura}{25}{section.2.4}
+                                                   [4
 
 
 ])
@@ -875,7 +807,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has be
 <to be read again> 
                    \relax 
 l.103 	\sumario
-                [9]
+                [5]
 \openout2 = `Capitulos/Introducao.aux'.
 
  (./Capitulos/Introducao.tex
@@ -894,7 +826,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
  []
 
-<Imagens/FluxoMateriaisNovos.jpg, id=190, 461.725pt x 339.76938pt>
+<Imagens/FluxoMateriaisNovos.jpg, id=152, 461.725pt x 339.76938pt>
 File: Imagens/FluxoMateriaisNovos.jpg Graphic file (type jpg)
  <use Imagens/FluxoMateriaisNovos.jpg>
 Package pdftex.def Info: Imagens/FluxoMateriaisNovos.jpg used on input line 16.
@@ -914,7 +846,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 21.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 21.
-[10
+[6
 
 
 
@@ -927,58 +859,53 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 40.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 40.
-[11 <./Imagens/FluxoMateriaisNovos.jpg>]
+[7 <./Imagens/FluxoMateriaisNovos.jpg>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 44.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 49.
+(babel)             in language  on input line 53.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 49.
- [12]
+(babel)             in language  on input line 53.
+ [8]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 63.
+(babel)             in language  on input line 64.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 63.
- [13]
+(babel)             in language  on input line 64.
+ [9]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 73.
+(babel)             in language  on input line 67.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 77.
+(babel)             in language  on input line 75.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 86.
+(babel)             in language  on input line 78.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 86.
- [14]
+(babel)             in language  on input line 78.
+ [10]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 87.
+(babel)             in language  on input line 79.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 97.
+(babel)             in language  on input line 89.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 94.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 94.
+ [11]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 99.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 103.
+(babel)             in language  on input line 101.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 106.
+(babel)             in language  on input line 113.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 106.
- [15]
+(babel)             in language  on input line 121.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 111.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 119.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 122.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 122.
- [16]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 123.
-)
+(babel)             in language  on input line 121.
+ [12])
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 109.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 109.
- [17]
+ [13]
 \openout2 = `Capitulos/SiMate.aux'.
 
  (./Capitulos/SiMate.tex
@@ -993,7 +920,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 25.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 25.
-[18
+[14
 
 
 
@@ -1004,257 +931,215 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 52.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 52.
- [19]
+ [15]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 73.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 73.
- [20]
+ [16]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 76.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 103.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 103.
- [21]
+ [17]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 106.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 110.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 112.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 116.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 118.
+(babel)             in language  on input line 120.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 122.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 126.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 130.
- <Imagens/UC_CriarEtapa.png, id=317, 524.71031pt x 266.49562pt>
+(babel)             in language  on input line 124.
+ <Imagens/UC_CriarEtapa.png, id=283, 524.71031pt x 266.49562pt>
 File: Imagens/UC_CriarEtapa.png Graphic file (type png)
  <use Imagens/UC_CriarEtapa.png>
-Package pdftex.def Info: Imagens/UC_CriarEtapa.png used on input line 136.
+Package pdftex.def Info: Imagens/UC_CriarEtapa.png used on input line 130.
 (pdftex.def)             Requested size: 284.52756pt x 144.51138pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 137.
+(caption)                particular \caption on input line 131.
 See the caption package documentation for explanation.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--140
+Underfull \hbox (badness 10000) in paragraph at lines 127--134
 
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 140.
+(babel)             in language  on input line 134.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 140.
-[22] <Imagens/UC_CriarFluxo.jpg, id=323, 699.61375pt x 347.2975pt>
+(babel)             in language  on input line 134.
+[18] <Imagens/UC_CriarFluxo.jpg, id=291, 699.61375pt x 347.2975pt>
 File: Imagens/UC_CriarFluxo.jpg Graphic file (type jpg)
  <use Imagens/UC_CriarFluxo.jpg>
-Package pdftex.def Info: Imagens/UC_CriarFluxo.jpg used on input line 167.
+Package pdftex.def Info: Imagens/UC_CriarFluxo.jpg used on input line 161.
 (pdftex.def)             Requested size: 284.52756pt x 141.24294pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 168.
+(caption)                particular \caption on input line 162.
 See the caption package documentation for explanation.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 164--171
+Underfull \hbox (badness 10000) in paragraph at lines 158--165
 
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 171.
+(babel)             in language  on input line 165.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 171.
-[23 <./Imagens/UC_CriarEtapa.png>]
+(babel)             in language  on input line 165.
+[19 <./Imagens/UC_CriarEtapa.png>]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 198.
+(babel)             in language  on input line 192.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 198.
- [24 <./Imagens/UC_CriarFluxo.jpg>] <Imagens/UC_CriarMaterial.jpg, id=364, 696.6025pt x 347.2975pt>
+(babel)             in language  on input line 192.
+ [20 <./Imagens/UC_CriarFluxo.jpg>] <Imagens/UC_CriarMaterial.jpg, id=330, 696.6025pt x 347.2975pt>
 File: Imagens/UC_CriarMaterial.jpg Graphic file (type jpg)
  <use Imagens/UC_CriarMaterial.jpg>
-Package pdftex.def Info: Imagens/UC_CriarMaterial.jpg used on input line 212.
+Package pdftex.def Info: Imagens/UC_CriarMaterial.jpg used on input line 206.
 (pdftex.def)             Requested size: 284.52756pt x 141.85236pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 213.
+(caption)                particular \caption on input line 207.
 See the caption package documentation for explanation.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 209--216
+Underfull \hbox (badness 10000) in paragraph at lines 203--210
 
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 234.
+(babel)             in language  on input line 228.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 234.
-[25 <./Imagens/UC_CriarMaterial.jpg>]
+(babel)             in language  on input line 228.
+[21 <./Imagens/UC_CriarMaterial.jpg>]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 259.
+(babel)             in language  on input line 253.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 264.
+(babel)             in language  on input line 258.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 264.
- [26] <Imagens/SiMateTelas/Index.png, id=410, 1030.85126pt x 755.82375pt>
+(babel)             in language  on input line 258.
+ [22] <Imagens/SiMateTelas/Index.png, id=375, 1030.85126pt x 755.82375pt>
 File: Imagens/SiMateTelas/Index.png Graphic file (type png)
  <use Imagens/SiMateTelas/Index.png>
-Package pdftex.def Info: Imagens/SiMateTelas/Index.png used on input line 267.
+Package pdftex.def Info: Imagens/SiMateTelas/Index.png used on input line 261.
 (pdftex.def)             Requested size: 426.79134pt x 312.9229pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 268.
+(caption)                particular \caption on input line 262.
 See the caption package documentation for explanation.
 
 
-Overfull \hbox (19.91684pt too wide) in paragraph at lines 266--271
+Overfull \hbox (19.91684pt too wide) in paragraph at lines 260--265
 []$[]$ 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 266--271
+Underfull \hbox (badness 10000) in paragraph at lines 260--265
 
  []
 
-<Imagens/SiMateTelas/GradeDisciplinas.png, id=413, 1030.85126pt x 755.82375pt>
+<Imagens/SiMateTelas/GradeDisciplinas.png, id=378, 1030.85126pt x 755.82375pt>
 File: Imagens/SiMateTelas/GradeDisciplinas.png Graphic file (type png)
  <use Imagens/SiMateTelas/GradeDisciplinas.png>
-Package pdftex.def Info: Imagens/SiMateTelas/GradeDisciplinas.png used on input line 276.
+Package pdftex.def Info: Imagens/SiMateTelas/GradeDisciplinas.png used on input line 270.
 (pdftex.def)             Requested size: 426.79134pt x 312.9229pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 277.
+(caption)                particular \caption on input line 271.
 See the caption package documentation for explanation.
 
 
-Overfull \hbox (19.91684pt too wide) in paragraph at lines 275--280
+Overfull \hbox (19.91684pt too wide) in paragraph at lines 269--274
 []$[]$ 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 275--280
+Underfull \hbox (badness 10000) in paragraph at lines 269--274
 
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 280.
+(babel)             in language  on input line 274.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 280.
-[27 <./Imagens/SiMateTelas/Index.png>] <Imagens/SiMateTelas/ArtefatoDetalhe.png, id=422, 1030.85126pt x 755.82375pt>
+(babel)             in language  on input line 274.
+[23 <./Imagens/SiMateTelas/Index.png>] <Imagens/SiMateTelas/ArtefatoDetalhe.png, id=388, 1030.85126pt x 755.82375pt>
 File: Imagens/SiMateTelas/ArtefatoDetalhe.png Graphic file (type png)
  <use Imagens/SiMateTelas/ArtefatoDetalhe.png>
-Package pdftex.def Info: Imagens/SiMateTelas/ArtefatoDetalhe.png used on input line 287.
+Package pdftex.def Info: Imagens/SiMateTelas/ArtefatoDetalhe.png used on input line 281.
 (pdftex.def)             Requested size: 426.79134pt x 312.9229pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 288.
+(caption)                particular \caption on input line 282.
 See the caption package documentation for explanation.
 
 
-Overfull \hbox (19.91684pt too wide) in paragraph at lines 286--291
+Overfull \hbox (19.91684pt too wide) in paragraph at lines 280--285
 []$[]$ 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 286--291
+Underfull \hbox (badness 10000) in paragraph at lines 280--285
 
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 291.
+(babel)             in language  on input line 285.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 291.
-[28 <./Imagens/SiMateTelas/GradeDisciplinas.png>]
+(babel)             in language  on input line 285.
+[24 <./Imagens/SiMateTelas/GradeDisciplinas.png>]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 294.
- <Imagens/Arquitetura.png, id=429, 407.27156pt x 465.23813pt>
+(babel)             in language  on input line 288.
+ <Imagens/Arquitetura.png, id=396, 407.27156pt x 465.23813pt>
 File: Imagens/Arquitetura.png Graphic file (type png)
  <use Imagens/Arquitetura.png>
-Package pdftex.def Info: Imagens/Arquitetura.png used on input line 301.
+Package pdftex.def Info: Imagens/Arquitetura.png used on input line 295.
 (pdftex.def)             Requested size: 284.52756pt x 325.03975pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 302.
+(caption)                particular \caption on input line 296.
 See the caption package documentation for explanation.
 
 
-Overfull \hbox (19.91684pt too wide) in paragraph at lines 299--305
+Overfull \hbox (19.91684pt too wide) in paragraph at lines 293--299
 []$[]$ 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--305
+Underfull \hbox (badness 10000) in paragraph at lines 293--299
 
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 306.
+(babel)             in language  on input line 300.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 306.
-[29 <./Imagens/SiMateTelas/ArtefatoDetalhe.png>])
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 112.
+(babel)             in language  on input line 300.
+[25 <./Imagens/SiMateTelas/ArtefatoDetalhe.png>])
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 112.
- [30 <./Imagens/Arquitetura.png>]
-\openout2 = `Capitulos/Cronograma.aux'.
-
- (./Capitulos/Cronograma.tex
-Cap\'{\i }tulo 3.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 3.
-)
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 115.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 115.
- [31
-
-
-
-]
-\openout2 = `Capitulos/Consideracoes.aux'.
-
- (./Capitulos/Consideracoes.tex) (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Proposta-TCC.bbl
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 3.
-
-
-LaTeX Warning: Empty `thebibliography' environment on input line 8.
-
-)
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 125.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 125.
- [32
-
-
-
-
-]
-\openout2 = `Capitulos/ApendiceA.aux'.
-
- (./Capitulos/ApendiceA.tex)
-\openout2 = `Capitulos/AnexoA.aux'.
-
- (./Capitulos/AnexoA.tex)
+(babel)             in language  on input line 112.
+ [26 <./Imagens/Arquitetura.png>]
 +-------------------------------------------------------------------+
 | Comentario, sugestao ou critica sobre o abnTeX? Entre em contato: |
 |                  http://abntex.codigolivre.org.br                 |
 +-------------------------------------------------------------------+
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 133.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 133.
-(/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Proposta-TCC.aux (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Includes/Capa.aux) (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Includes/FolhaRosto.aux) (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Includes/FolhaAprovacao.aux) (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Includes/Dedicatoria.aux) (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Includes/Agradecimentos.aux) (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Includes/Epigrafe.aux) (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Includes/Resumo.aux) (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Includes/Abstract.aux) (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Capitulos/Introducao.aux) (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Capitulos/SiMate.aux) (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Capitulos/Cronograma.aux) (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Capitulos/Consideracoes.aux) (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Capitulos/ApendiceA.aux) (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Capitulos/AnexoA.aux))
+(/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Proposta-TCC.aux (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Includes/Capa.aux) (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Includes/FolhaRosto.aux) (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Includes/Resumo.aux) (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Includes/Abstract.aux) (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Capitulos/Introducao.aux) (/Users/wendellpbarreto/Projects/tcc/.texpadtmp/Capitulos/SiMate.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 133.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 133.
 Package rerunfilecheck Info: File `Proposta-TCC.out' has not changed.
@@ -1266,18 +1151,18 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 133.
  ) 
 Here is how much of TeX's memory you used:
- 10263 strings out of 493089
- 151392 string characters out of 6134841
- 362101 words of memory out of 5000000
- 13274 multiletter control sequences out of 15000+600000
- 26991 words of font info for 73 fonts, out of 8000000 for 9000
+ 10181 strings out of 493089
+ 148123 string characters out of 6134841
+ 357437 words of memory out of 5000000
+ 13261 multiletter control sequences out of 15000+600000
+ 26228 words of font info for 72 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 36i,9n,39p,1081b,765s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfxc1728.pfb>
-Output written on /Users/wendellpbarreto/Projects/tcc/.texpadtmp/Proposta-TCC.pdf (33 pages, 1047757 bytes).
+ 36i,9n,39p,1332b,765s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfxc1728.pfb>
+Output written on /Users/wendellpbarreto/Projects/tcc/.texpadtmp/Proposta-TCC.pdf (27 pages, 1018859 bytes).
 PDF statistics:
- 529 PDF objects out of 1000 (max. 8388607)
- 461 compressed objects within 5 object streams
- 145 named destinations out of 1000 (max. 500000)
- 267 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 481 PDF objects out of 1000 (max. 8388607)
+ 420 compressed objects within 5 object streams
+ 136 named destinations out of 1000 (max. 500000)
+ 235 words of extra memory for PDF output out of 10000 (max. 10000000)
 

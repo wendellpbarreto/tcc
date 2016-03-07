@@ -3,20 +3,13 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: /Users/wendellpbarreto/Projects/tcc/.texpadtmp/Proposta-TCC.aux
 A level-1 auxiliary file: Includes/Capa.aux
 A level-1 auxiliary file: Includes/FolhaRosto.aux
-A level-1 auxiliary file: Includes/FolhaAprovacao.aux
-A level-1 auxiliary file: Includes/Dedicatoria.aux
-A level-1 auxiliary file: Includes/Agradecimentos.aux
-A level-1 auxiliary file: Includes/Epigrafe.aux
 A level-1 auxiliary file: Includes/Resumo.aux
 A level-1 auxiliary file: Includes/Abstract.aux
 A level-1 auxiliary file: Capitulos/Introducao.aux
 A level-1 auxiliary file: Capitulos/SiMate.aux
-A level-1 auxiliary file: Capitulos/Cronograma.aux
-A level-1 auxiliary file: Capitulos/Consideracoes.aux
 The style file: ../abnt-alf.bst
-A level-1 auxiliary file: Capitulos/ApendiceA.aux
-A level-1 auxiliary file: Capitulos/AnexoA.aux
 I found no \citation commands---while reading file /Users/wendellpbarreto/Projects/tcc/.texpadtmp/Proposta-TCC.aux
+I found no \bibdata command---while reading file /Users/wendellpbarreto/Projects/tcc/.texpadtmp/Proposta-TCC.aux
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -25,7 +18,6 @@ Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Database file #1: ../Capitulos/Referencias.bib
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
@@ -38,7 +30,7 @@ Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 +---------------------------------------------------------+
 You've used 0 entries,
             6480 wiz_defined-function locations,
-            1168 strings with 9563 characters,
+            1159 strings with 9346 characters,
 and the built_in function-call counts, 693 in all, are:
 = -- 186
 > -- 0
@@ -77,4 +69,4 @@ warning$ -- 0
 while$ -- 2
 width$ -- 0
 write$ -- 8
-(There was 1 error message)
+(There were 2 error messages)
