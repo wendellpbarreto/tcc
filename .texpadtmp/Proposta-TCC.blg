@@ -1,15 +1,16 @@
-This is BibTeX, Version 0.99d (TeX Live 2015)
+This is BibTeX, Version 0.99d (TeX Live 2016)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
-The top-level auxiliary file: /Users/wendellpbarreto/Projects/tcc/.texpadtmp/Proposta-TCC.aux
+The top-level auxiliary file: /Users/wendellp.barreto/Projects/tcc/.texpadtmp/Proposta-TCC.aux
 A level-1 auxiliary file: Includes/Capa.aux
 A level-1 auxiliary file: Includes/FolhaRosto.aux
+A level-1 auxiliary file: Includes/FolhaAprovacao.aux
+A level-1 auxiliary file: Includes/Epigrafe.aux
 A level-1 auxiliary file: Includes/Resumo.aux
 A level-1 auxiliary file: Includes/Abstract.aux
 A level-1 auxiliary file: Capitulos/Introducao.aux
-A level-1 auxiliary file: Capitulos/SiMate.aux
 The style file: ../abnt-alf.bst
-I found no \citation commands---while reading file /Users/wendellpbarreto/Projects/tcc/.texpadtmp/Proposta-TCC.aux
-I found no \bibdata command---while reading file /Users/wendellpbarreto/Projects/tcc/.texpadtmp/Proposta-TCC.aux
+I found no \citation commands---while reading file /Users/wendellp.barreto/Projects/tcc/.texpadtmp/Proposta-TCC.aux
+I found no \bibdata command---while reading file /Users/wendellp.barreto/Projects/tcc/.texpadtmp/Proposta-TCC.aux
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -30,7 +31,7 @@ Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 +---------------------------------------------------------+
 You've used 0 entries,
             6480 wiz_defined-function locations,
-            1159 strings with 9346 characters,
+            1160 strings with 9376 characters,
 and the built_in function-call counts, 693 in all, are:
 = -- 186
 > -- 0

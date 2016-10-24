@@ -1,24 +1,9 @@
 \select@language {brazil}
-\contentsline {chapter}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{6}{chapter.1}
-\contentsline {section}{\numberline {1.1}Contextualiza\IeC {\c c}\IeC {\~a}o}{6}{section.1.1}
-\contentsline {section}{\numberline {1.2}Situa\IeC {\c c}\IeC {\~a}o Problema}{8}{section.1.2}
-\contentsline {section}{\numberline {1.3}Motiva\IeC {\c c}\IeC {\~a}o}{10}{section.1.3}
-\contentsline {section}{\numberline {1.4}Estado da Arte}{10}{section.1.4}
-\contentsline {subsection}{\numberline {1.4.1}Redmine}{11}{subsection.1.4.1}
-\contentsline {section}{\numberline {1.5}Proposta}{11}{section.1.5}
-\contentsline {section}{\numberline {1.6}Organiza\IeC {\c c}\IeC {\~a}o do trabalho}{12}{section.1.6}
-\contentsline {subsection}{\numberline {1.6.1}Objetivos}{12}{subsection.1.6.1}
-\contentsline {subsection}{\numberline {1.6.2}Metodologia}{12}{subsection.1.6.2}
-\contentsline {chapter}{\numberline {2}SiMate: Sistema de Materiais}{14}{chapter.2}
-\contentsline {section}{\numberline {2.1}Elicita\IeC {\c c}\IeC {\~a}o de Requisitos}{14}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Regras de Neg\IeC {\'o}cio}{14}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}Requisitos Funcionais}{15}{subsection.2.1.2}
-\contentsline {subsection}{\numberline {2.1.3}Requisitos N\IeC {\~a}o-Funcionais}{17}{subsection.2.1.3}
-\contentsline {section}{\numberline {2.2}Especifica\IeC {\c c}\IeC {\~a}o de Casos de Uso}{18}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Atores}{18}{subsection.2.2.1}
-\contentsline {subsubsection}{\numberline {2.2.1.1}Administrador}{18}{subsubsection.2.2.1.1}
-\contentsline {subsubsection}{\numberline {2.2.1.2}Setor de Materiais}{18}{subsubsection.2.2.1.2}
-\contentsline {subsubsection}{\numberline {2.2.1.3}Membro}{18}{subsubsection.2.2.1.3}
-\contentsline {subsection}{\numberline {2.2.2}Casos de Uso}{18}{subsection.2.2.2}
-\contentsline {section}{\numberline {2.3}Projeto de Interface}{22}{section.2.3}
-\contentsline {section}{\numberline {2.4}Arquitetura}{25}{section.2.4}
+\contentsline {chapter}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{9}{chapter.1}
+\contentsline {section}{\numberline {1.1}Motiva\IeC {\c c}\IeC {\~a}o}{9}{section.1.1}
+\contentsline {section}{\numberline {1.2}Contextualiza\IeC {\c c}\IeC {\~a}o}{10}{section.1.2}
+\contentsline {section}{\numberline {1.3}Situa\IeC {\c c}\IeC {\~a}o Problema}{12}{section.1.3}
+\contentsline {section}{\numberline {1.4}Estado da Arte}{13}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Redmine}{14}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Softwares baseados em Kanban}{14}{subsection.1.4.2}
+\contentsline {section}{\numberline {1.5}Estrutura da Monografia}{15}{section.1.5}
