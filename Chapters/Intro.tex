@@ -1,10 +1,17 @@
 \chapter{Introdução}
 
-Este é o capítulo introdutório da monografia e está dividido em cinco seções. A primeira trata de descrever a motivação encontrada para a execução do corrente trabalho, a segunda contextualiza o ambiente e condições de aplicação e a terceira demonstra, em linhas gerais, a situação problema encontrada. Após isso, na quinta seção, as possíveis soluções existentes para o problema exposto são discutidas e, por fim, a estrutura da monografia é descrita.
+Este é o capítulo introdutório da monografia e está dividido em cinco seções. A primeira trata de descrever a motivação encontrada para a execução do corrente trabalho, a segunda contextualiza o ambiente e condições de aplicação e a terceira demonstra, em linhas gerais, a situação problema encontrada. Após isso, na quarta seção, as possíveis soluções existentes para o problema exposto são discutidas e, por fim, a estrutura da monografia é descrita.
+
+\nomenclature{IMD}{Instituto Metrópole Digital}
+\nomenclature{UFRN}{Universidade Federal do Rio Grande do Norte}
+\nomenclature{RN}{Regra de Negócio}
+\nomenclature{RF}{Requisito Funcional}
+\nomenclature{RNF}{Requisito Não-Funcional}
+\nomenclature{BPMN}{Business Process Model and Notation}
 
 \section{Motivação}
 
-Todos os dias novos produtos surgem no mercado tecnológico com o objetivo de solucionar algum problema do cotidiano de empresas e instituições. O Sistema Gema, como sistema de informação, é proposto com o intuito lapidar processos diretamente relacionados com a criação de materiais didáticos, interesse cuja preocupação deve ser notória, pois, à medida que o produto da instituição é o ensino, a qualificação dos seus alunos deve ser seu carro chefe.
+Todos os dias novos produtos surgem no mercado tecnológico com o objetivo de solucionar algum problema do cotidiano de empresas e instituições. O sistema \textbf{Gema}, como sistema de informação, é proposto com o intuito lapidar processos diretamente relacionados com a criação de materiais didáticos, interesse cuja preocupação deve ser notória, pois, à medida que o produto da instituição é o ensino, a qualificação dos seus alunos deve ser seu carro chefe.
 
 No Instituto Metrópole Digital, assim como nos demais institutos de ensino, os benefícios que os recursos tecnológicos presentes fornecem precisam ser melhor aproveitados. Para isso, a percepção do poder da tecnologia da informação e a adesão ao novo devem ser praticados. 
 
@@ -14,17 +21,16 @@ Este trabalho nada mais é do que a junção da prática desses comportamentos c
 
 Como Unidade Suplementar da Universidade Federal do Rio Grande do Norte (UFRN), o Instituto Metrópole Digital (IMD) atua na formação de jovens e adultos de nível técnico, superior e pós-graduação. Suas ações integram a inclusão social e digital de estudantes do ensino básico à pós-graduação, a realização de pesquisa e inovação tecnológica e o incentivo à cultura do empreendedorismo.
 
-Hoje o IMD encontra-se particionado em diversos setores, cada qual com seu objetivo e metodologia. Entre estes setores, está o setor de materiais, responsável pela produção de todo o material disponibilizado pelo instituto e principal interessado no desenvolvimento deste trabalho. 
+Hoje o IMD encontra-se particionado em diversos setores, cada qual com seu objetivo e metodologia. Entre estes setores, está o setor de produção multimídia, responsável pela produção de todo o material disponibilizado pelo instituto e principal interessado no desenvolvimento deste trabalho. 
 
-Dentro do setor de materiais é possível extrair todos os fluxos que contemplam a criação de um material e, na figura a seguir, é possível entender como um dos principais fluxos funciona. \\
+Dentro do setor de materiais é possível extrair todos os fluxos que contemplam a criação de um material e, na \hyperref[fig:fluxo_materiais_novos]{figura \ref{fig:fluxo_materiais_novos}} a seguir, é possível entender como um dos principais fluxos funciona. \\
 
-\vspace{5mm}
-\begin{minipage}[c]{\textwidth}
-    \includegraphics[width=14cm]{Imagens/FluxoMateriaisNovos.jpg}
-    \captionof{figure}{Fluxo de Criação de Materiais Didáticos}
-    \label{fig:fluxo_materiais_novos}
-\end{minipage}
-\vspace{5mm}
+\begin{figure}[H]
+\centering
+     \includegraphics[width=1.0\textwidth]{Images/FluxoMateriaisNovos.jpg}
+      \caption{Fluxo de Criação de Materiais Didáticos \\ Fonte: Setor de Produção Multimídia IMD - UFRN}
+       \label{fig:fluxo_materiais_novos}
+\end{figure}
 
 A \hyperref[fig:fluxo_materiais_novos]{Figura \ref{fig:fluxo_materiais_novos}} descreve o fluxo para a criação do material didático de uma aula. Ele é iniciado com o envio do arquivo pelo autor para o setor de materiais, onde será feita uma primeira análise do conteúdo do material, o qual é então repassado para a equipe pedagógica responsável pela transição didática, processo de adaptar os conteúdos à perspectiva pedagógica da instituição. O material então fica alternando de responsabilidade entre o professor e a equipe pedagógica até que essa última determine a conformidade do conteúdo. Neste momento, a equipe de língua portuguesa e normas ABNT recebe o arquivo e se encarrega por executar revisões e melhorias juntamente com o professor, o resultado é encaminhado ao setor de materiais que, de acordo com as necessidades, solicita criação de material de vídeo, ilustração e, por último, diagramação, processo de organizar o material para publicação. Quando a equipe de diagramação termina seu trabalho, o arquivo volta à coordenação do setor de materiais para que seja feita uma nova verificação nos resultados obtidos e seja solicitada aprovação do professor que iniciou o processo.
 
@@ -36,24 +42,39 @@ No fluxo descrito, algumas equipes foram citadas, cada uma dessas está represen
 \hline            
 \rowcolor[HTML]{EFEFEF}      
 \textbf{Nome} & \textbf{Papel} \\ \hline
-Autor (professor) & Elabora o material de aula/prova na sua versão inicial e participa do fluxo realizando melhorias e correções.                                                                                               \\ \hline
-Gerência           & O setor de materiais é principalmente responsável por auditar o processo de criação do material. Ele garante a execução dos passos do fluxo, o cumprimento dos prazos e a conformidade com as necessidades. \\ \hline
-Transição Didática & Na transição didática há a formatação textual de acordo com as necessidades pedagógicas da instituição.                                                                                                     \\ \hline
-LP / ABNT          & Garante que as normas ortográficas e técnicas sejam respeitadas no conteúdo do material.                                                                                                                    \\ \hline
-Vídeo              & Realiza criação, gravação e edição dos vídeos necessários para preencher o material didático.                                                                                                               \\ \hline
-Ilustração         & Responsável por toda a parte gráfica/artística dos materiais.                                                                                                                                               \\ \hline
-Diagramação        & Define a organização final do material para a publicação.                                                                                                                                                   \\ \hline
+Gerência & É o responsável por receber e avaliar todas as demandas que chegam no setor, garantindo assim a execução do fluxo de produção, cumprimento dos prazos e a conformidade do material conforme solicitação.
+\\ \hline 
+Autor & Elabora o material didático textual, aulas/exercícios/provas, participando assim do fluxo de produção, de modo a ser realizando melhorias e possíveis correções textuais.             
+\\ \hline 
+Revisão Técnica & Garante a conformidade do conteúdo do material no ponto de vista técnico.
+\\ \hline 
+Transição Didática & Responsável por analisar a organização estrutural e didática da produção textual do autor, de modo que o conteúdo se adeque a linguagem adotada para um material de ensino a distância, de modo que o conteúdo esteja em conformidade com as necessidades pedagógicas do Instituto, podendo sugerir também alterações textuais e inserções multimídia de forma a tornar o material mais didático e atrativo.
+\\ \hline                                                                                               
+Revisão LP & Garante que as normas ortográficas e gramatical sejam atendidas, bem como o aperfeiçoamento do texto no que se refere a coerência e coesão, apresentando sugestões e orientações ao autor, tornando assim o texto mais claro e objetivo.
+\\ \hline 
+Revisão ABNT & Garante que as normas ABNT sejam aplicadas no conteúdo do material didático.    
+\\ \hline       
+Ilustração & Responsável pela parte gráfica e criação das imagens dos materiais.  
+\\ \hline           
+Vídeo & Responsável pela adequação do roteiro, gravação e edição de vídeos.    
+\\ \hline                                                                                                                                         
+Diagramação Web & Responsável pela inserção da aula no formato web, incluindo elementos responsivo e de interação. 
+\\ \hline                                                                                                
+Implementação Moodle & Responsável pela diagramação e publicação das atividades elaboradas pelo professor dentro do ambiente virtual de aprendizagem.
+\\ \hline
+Tipografia & Confere a versão final das aulas para garantir a ausência de erros na diagramação.
+\\ \hline
 \end{tabular}
 \end{center}
 
 \section{Situação Problema}
 
-Os passos quem compõem o fluxo existem com intuito de gerar resultados. Esses resultados representam um produto, um material que possui valor para o instituto. 
+Os passos que compõem o fluxo existem com intuito de gerar resultados. Esses resultados representam um produto, um material que possui valor para o instituto. 
 
-Tomando como exemplo o fluxo de materiais didáticos novos (ver \hyperref[fig:fluxo_materiais_novos]{Figura \ref{fig:fluxo_materiais_novos}}), na prática, os passos executados acontecem da seguinte maneira:
+Tomando como exemplo o fluxo de materiais didáticos novos (ver \hyperref[fig:fluxo_materiais_novos]{Figura \ref{fig:fluxo_materiais_novos}}), na prática, os passos executados acontecem seguindo o processo a seguir:
 
 \begin{enumerate}
-  \item O autor (professor) envia os arquivos do material de aula à gerência do setor de materiais através de e-mail;
+  \item O autor envia os arquivos do material de aula à gerência do setor de materiais através de e-mail;
   \item Ao receber os arquivos, a equipe de gerência cria uma planilha com os dados do material, valida os documentos e passa para a equipe pedagógica;
   \item A equipe de pedagógica então executa a revisão textual e retorna para o autor caso seja necessário realizar ajustes. Esse ciclo se repete até que a equipe determine que o material está totalmente de acordo com as necessidades percebidas. Ao final, o material é enviado para a revisão de língua portuguesa e de normas ABNT;
   \item Os responsáveis pelas revisões LP/ABNT atuam sobre o material em conjunto com o autor até que os textos estejam em conformidade com as normas ortográficas e técnicas.
@@ -61,7 +82,16 @@ Tomando como exemplo o fluxo de materiais didáticos novos (ver \hyperref[fig:fl
   \item Ao passo que a equipe de diagramação finaliza seu trabalho, há uma última verificação feita pela gerência e, então, todo o resultado retorna ao autor para a validação final.
 \end{enumerate}
 
-Durante o fluxo, a gerência utiliza de planilhas para administrar as versões do material e correio eletrônico para solicitações e conclusão das etapas. Em cada envio, a versão mais recente do material segue como anexo e, no corpo da mensagem, o direcionamento do que fazer e o prazo estipulado. Ao final do processo e dos e-mails trocados, o produto final se encontra pronto pra ser entregue aos alunos.
+O passo-a-passo acima pode ser generalizado através do BPMN da figura a seguir.
+
+\begin{figure}[H]
+\centering
+     \includegraphics[width=1.0\textwidth]{Images/bpmn1.png}
+      \caption{BPMN para Criação de Materiais Multimídia}
+       \label{fig:bpmn1}
+\end{figure}
+
+No BPMN apresentado acima é possível entender melhor como o fluxo acontece. Nele, a gerência utiliza planilhas para administrar as versões do material e correio eletrônico para solicitações e conclusão das etapas. Em cada envio, a versão mais recente do material segue como anexo e, no corpo da mensagem, o direcionamento do que fazer e o prazo estipulado. Ao final do processo e dos e-mails trocados, o produto final se encontra pronto pra ser entregue aos alunos.
 
 A forma como o processo descrito é executado representa a solução imediata encontrada pelos envolvidos para produção do material. Todavia, dado o estudo feito neste trabalho, é possível perceber que alguns pontos de falha se ressaltam nessa metodologia. 
 
@@ -69,7 +99,7 @@ Até o presente momento, foram citadas as utilizações de duas ferramentas impo
 
 A perda de informação e registro causa não só a deficiência na execução quanto dificultam a criação de relatórios consistentes, pois há a necessidade de cruzamento manual de dados de diversas fontes. A equipe de gerência, responsável pela formação do material, tem o conhecimento prejudicado sobre o andamento do processo nas etapas das quais outras equipes são responsáveis. A ferramenta utilizada para as solicitações também pode facilitar a perda de prazos e de qualidade, visto que e-mails não propriamente enviados ou a não percepção do conteúdo que chega na caixa postal da equipe responsável pode acarretar em diminuição do tempo hábil para concretização do trabalho.
 
-A contínua tarefa de verificação do recebimento do material e a necessidade de auditar o processo através de planilhas a parte dificultam a saída do material como o processo teoriza. 
+A contínua tarefa de verificação do recebimento do material e a necessidade de auditar o processo através de planilhas a parte dificultam a saída do material como o processo descrito acima teoriza. 
 
 Determinados os pontos de falha, caracterizamos a situação problema encontrada como base para a especificação e desenvolvimento do corrente trabalho.
 
@@ -99,7 +129,7 @@ A partir do momento em que os cartões desse tipo de ferramenta são visualmente
 
 \section{Estrutura da Monografia}
 
-No capítulo seguinte, o Gema será introduzido através da definição de seus requisitos, isto é, as propriedades e comportamentos percebidos que o produto deve atender. Na seção 2 do mesmo capítulo, os elementos de interface serão explicados juntamente com o estudo de interação entre eles e os usuários. Na seção seguinte, utilizaremos de diagramas e modelos para representar a definição dos componentes de software da arquitetura utilizada no desenvolvimento e, na última seção, mostraremos as telas explanando-as a fim de promover o entendimento fluxo de uso do sistema.
+No capítulo seguinte, o sistema será introduzido através da definição de seus requisitos, isto é, as propriedades e comportamentos percebidos que o produto deve atender. Na seção 2 do mesmo capítulo, os elementos de interface serão explicados juntamente com o estudo de interação entre eles e os usuários. Na seção seguinte, utilizaremos de diagramas e modelos para representar a definição dos componentes de software da arquitetura utilizada no desenvolvimento e, na última seção, mostraremos as telas explanando-as a fim de promover o entendimento fluxo de uso do sistema.
 
 O capítulo 3 relata o estudo feito para análise do problema a ser resolvido pelo software desenvolvido. Nesse estudo, descrevemos a forma que os experimentos foram feitos juntamente com as equipes envolvidas no processo de produção de materiais e como os resultados obtidos influenciaram nas melhorias do produto.
 

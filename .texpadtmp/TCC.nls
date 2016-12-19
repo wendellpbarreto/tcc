@@ -1,0 +1,18 @@
+\begin{thenomenclature} 
+
+ \nomgroup{A}
+
+  \item [{BPMN}]\begingroup Business Process Model and Notation\nomeqref {1.0}
+		\nompageref{12}
+  \item [{IMD}]\begingroup Instituto Metrópole Digital\nomeqref {1.0}
+		\nompageref{12}
+  \item [{RF}]\begingroup Requisito Funcional\nomeqref {1.0}
+		\nompageref{12}
+  \item [{RN}]\begingroup Regra de Negócio\nomeqref {1.0}
+		\nompageref{12}
+  \item [{RNF}]\begingroup Requisito Não-Funcional\nomeqref {1.0}
+		\nompageref{12}
+  \item [{UFRN}]\begingroup Universidade Federal do Rio Grande do Norte\nomeqref {1.0}
+		\nompageref{12}
+
+\end{thenomenclature}

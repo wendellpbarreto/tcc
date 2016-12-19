@@ -1,0 +1,38 @@
+\select@language {brazil}
+\contentsline {chapter}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{12}{chapter.1}
+\contentsline {section}{\numberline {1.1}Motiva\IeC {\c c}\IeC {\~a}o}{12}{section.1.1}
+\contentsline {section}{\numberline {1.2}Contextualiza\IeC {\c c}\IeC {\~a}o}{13}{section.1.2}
+\contentsline {section}{\numberline {1.3}Situa\IeC {\c c}\IeC {\~a}o Problema}{16}{section.1.3}
+\contentsline {section}{\numberline {1.4}Estado da Arte}{18}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Redmine}{18}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Softwares baseados em Kanban}{19}{subsection.1.4.2}
+\contentsline {section}{\numberline {1.5}Estrutura da Monografia}{20}{section.1.5}
+\contentsline {chapter}{\numberline {2}Gema: Gest\IeC {\~a}o de Produ\IeC {\c c}\IeC {\~a}o Multim\IeC {\'\i }dia}{21}{chapter.2}
+\contentsline {section}{\numberline {2.1}Elicita\IeC {\c c}\IeC {\~a}o de Requisitos}{21}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Regras de Neg\IeC {\'o}cio}{21}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Requisitos Funcionais}{23}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Requisitos N\IeC {\~a}o-Funcionais}{29}{subsection.2.1.3}
+\contentsline {section}{\numberline {2.2}Projeto de Interface}{30}{section.2.2}
+\contentsline {section}{\numberline {2.3}Arquitetura}{33}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Framework IMDev}{34}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}C\IeC {\'o}digo Fonte}{35}{subsection.2.3.2}
+\contentsline {section}{\numberline {2.4}Usando o Gema}{36}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Perfis de Navega\IeC {\c c}\IeC {\~a}o}{36}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Gerenciando o Gema}{38}{subsection.2.4.2}
+\contentsline {subsubsection}{\numberline {2.4.2.1}Tipos de Artefato}{38}{subsubsection.2.4.2.1}
+\contentsline {subsubsection}{\numberline {2.4.2.2}Disciplinas}{40}{subsubsection.2.4.2.2}
+\contentsline {subsubsection}{\numberline {2.4.2.3}M\IeC {\'o}dulos}{42}{subsubsection.2.4.2.3}
+\contentsline {subsubsection}{\numberline {2.4.2.4}Etapas}{43}{subsubsection.2.4.2.4}
+\contentsline {subsubsection}{\numberline {2.4.2.5}Fluxos}{46}{subsubsection.2.4.2.5}
+\contentsline {subsubsection}{\numberline {2.4.2.6}Ofertas}{48}{subsubsection.2.4.2.6}
+\contentsline {subsection}{\numberline {2.4.3}Produzindo Materiais Multim\IeC {\'\i }dia}{52}{subsection.2.4.3}
+\contentsline {subsubsection}{\numberline {2.4.3.1}Iniciando o Fluxo de Produ\IeC {\c c}\IeC {\~a}o}{53}{subsubsection.2.4.3.1}
+\contentsline {subsubsection}{\numberline {2.4.3.2}Realizando Etapas do Fluxo de Produ\IeC {\c c}\IeC {\~a}o}{55}{subsubsection.2.4.3.2}
+\contentsline {subsubsection}{\numberline {2.4.3.3}Finalizando o Fluxo de Produ\IeC {\c c}\IeC {\~a}o}{61}{subsubsection.2.4.3.3}
+\contentsline {section}{\numberline {2.5}Valida\IeC {\c c}\IeC {\~a}o}{68}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Product Backlog}{69}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Sprint Backlog}{69}{subsection.2.5.2}
+\contentsline {subsection}{\numberline {2.5.3}Reuni\IeC {\~o}es Presenciais}{69}{subsection.2.5.3}
+\contentsline {chapter}{\numberline {3}Conclus\IeC {\~o}es}{71}{chapter.3}
+\contentsline {section}{\numberline {3.1}Considera\IeC {\c c}\IeC {\~o}es e Conclus\IeC {\~o}es}{71}{section.3.1}
+\contentsline {section}{\numberline {3.2}Trabalhos Futuros}{72}{section.3.2}
